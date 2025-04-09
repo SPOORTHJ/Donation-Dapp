@@ -14,4 +14,4 @@ A simple decentralized donation platform built with **Solidity**, **Truffle**, a
 - **Wallet**: MetaMask
 
 
-##Built with 💙 by Spoorthi. J
+## Built with 💙 by Spoorthi. J
