@@ -13,14 +13,5 @@ A simple decentralized donation platform built with **Solidity**, **Truffle**, a
 - **Blockchain**: Ganache (Local Ethereum Network)
 - **Wallet**: MetaMask
 
-donation-dapp-truffle/
-│
-├── contracts/           # Solidity Smart Contracts
-├── migrations/          # Truffle Migration Scripts
-├── client/              # React Frontend
-├── build/               # Truffle Compiled ABIs
-├── truffle-config.js    # Truffle Configuration
-└── README.md
-
 
 ##Built with 💙 by Spoorthi. J
